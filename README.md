@@ -23,12 +23,12 @@ A classic Tic-Tac-Toe game implemented in Python where you challenge a computer 
   ```
 
 ### 🎮 How to Play
-Choose your symbol (X or O) at the start
-On your turn, enter:
-Row number (0, 1, or 2)
-Column number (0, 1, or 2)
-Try to get 3 of your symbols in a row (horizontally, vertically, or diagonally)
-Prevent the computer from doing the same
+- **Choose your symbol (X or O) at the start**
+- **On your turn, enter:**
+- **Row number (0, 1, or 2)**
+- **Column number (0, 1, or 2)**
+- **Try to get 3 of your symbols in a row (horizontally, vertically, or diagonally)**
+- **Prevent the computer from doing the same**
 
 ### 📊 Game Board Layout
 
@@ -43,23 +43,23 @@ Prevent the computer from doing the same
 ![demo2](https://github.com/user-attachments/assets/c5abb96a-4f6f-4d91-a9ea-d9bec5402b47)
 
 ### 🛠️ Implementation Details
-Randomized computer moves - Computer selects random available spots
-Immediate feedback - Clear messages for invalid moves and game outcomes
-Modular code - Separated into logical functions for easy maintenance
+- **Randomized computer moves - Computer selects random available spots**
+- **Immediate feedback - Clear messages for invalid moves and game outcomes**
+- **Modular code - Separated into logical functions for easy maintenance**
 
 ### 🌟 Future Enhancements
-Difficulty levels (easy/medium/hard)
-Score tracking across multiple games
-Graphical interface version
-Two-player human vs human mode
+- **Difficulty levels (easy/medium/hard)**
+- **Score tracking across multiple games**
+- **Graphical interface version**
+- **Two-player human vs human mode**
 
 ### 🤝 Contributing
-Contributions are welcome! Please:
-Fork the repository
-Create your feature branch
-Commit your changes
-Push to the branch
-Open a pull request
+- **Contributions are welcome! Please:**
+- **Fork the repository**
+- **Create your feature branch**
+- **Commit your changes**
+- **Push to the branch**
+- **Open a pull request**
 
 📜 License
 MIT
